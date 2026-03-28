@@ -92,15 +92,15 @@ Low job satisfaction consistently drove attrition across all groups. Creating a 
 
 ## Visualisations
 
-![Income vs Attrition](visualisations/income_vs_attrition.png)
-![Work-Life Balance vs Attrition](visualisations/worklife_vs_attrition.png)
-![Job Satisfaction vs Attrition](visualisations/jobsatisfaction_vs_attrition.png)
+![Salary vs Attrition](visualisations/Salary&Attrition)
+![Work-Life Balance vs Attrition](visualisations/Work&Attrition)
+![Job Satisfaction vs Attrition](visualisations/Satisfaction&Attrition)
 
 ---
 
 ## Report
 
-[Click here to read my full report!!](report/bass2023024_Pranav.pdf)
+[Click here to view the full report](report/IBM-Attrition-Report.pdf)
 
 ---
 
