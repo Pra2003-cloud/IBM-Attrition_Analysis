@@ -98,7 +98,7 @@ Low job satisfaction consistently drove attrition across all groups. Creating a 
 
 ## Report
 
-[Click here to view the full report](report/IBM-Attrition-Report.pdf)
+[Click here to view the full report](report/IBM%20Attrition%20Report.pdf)
 
 ---
 
