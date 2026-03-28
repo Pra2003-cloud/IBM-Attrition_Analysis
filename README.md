@@ -90,4 +90,19 @@ Low job satisfaction consistently drove attrition across all groups. Creating a 
 
 ---
 
+## Visualisations
+
+![Income vs Attrition](visualisations/income_vs_attrition.png)
+![Work-Life Balance vs Attrition](visualisations/worklife_vs_attrition.png)
+![Job Satisfaction vs Attrition](visualisations/jobsatisfaction_vs_attrition.png)
+
+---
+
+## Report
+
+[Click here to read my full report!!](report/bass2023024_Pranav.pdf)
+
+---
+
+
 *Made by Pranav Sharma · BS Analytics and Sustainability Studies · TISS Mumbai · Sem II*
