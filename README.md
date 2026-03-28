@@ -70,6 +70,25 @@ IBM-Attrition-Analysis/
 └── README.md
 ```
 
+## Visualisations
+![Salary vs Attrition](visualisations/Salary-vs-Attrition.png)
+![Work-Life Balance vs Attrition](visualisations/Work-vs-Attrition.png)
+![Job Satisfaction vs Attrition](visualisations/Satisfaction-vs-Attrition.png)
+
+---
+
+## Limitations
+
+- **Synthetic dataset** — This is a fictional dataset created by IBM for demonstration purposes. The findings reflect patterns within the data but cannot be generalised to real companies or industries.
+
+- **Correlation, not causation** — The statistical tests confirm associations between income, work-life balance, job satisfaction and attrition. They do not prove that one directly causes the other.
+
+- **Professional factors only** — This analysis deliberately focused on three professional variables. Personal, demographic and organisational factors (like manager behaviour or company culture) were not tested and may also significantly influence attrition.
+
+- **Self-reported data** — Variables like job satisfaction and work-life balance are perception-based ratings. Different employees may interpret the same scale differently, which can affect consistency.
+
+> Acknowledging these limitations does not weaken the analysis — it shows an understanding of what the data can and cannot tell us.
+
 ---
 
 ## What HR Should Do About It
@@ -90,15 +109,9 @@ Low job satisfaction consistently drove attrition across all groups. Creating a 
 
 ---
 
-![Salary vs Attrition](visualisations/Salary-vs-Attrition.png)
-![Work-Life Balance vs Attrition](visualisations/Work-vs-Attrition.png)
-![Job Satisfaction vs Attrition](visualisations/Satisfaction-vs-Attrition.png)
-
----
-
 ## Report
 
-[Click here to view the full report](report/IBM%20Attrition%20Report.pdf)
+[Click here to view my full report](report/IBM%20Attrition%20Report.pdf)
 
 ---
 
